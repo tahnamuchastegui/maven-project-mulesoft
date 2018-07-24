@@ -17,7 +17,7 @@
     	
     	<activemq.version>5.15.4</activemq.version>
     	<uid>tahnamuh</uid>
-    	<password>MuleTraining1</password>
+    	<pwd></pwd>
 	</properties>
 
 	<build>
